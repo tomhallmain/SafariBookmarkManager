@@ -1,0 +1,2 @@
+# SafariBookmarkManager
+Manage Safari bookmarks
